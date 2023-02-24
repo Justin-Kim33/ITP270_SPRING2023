@@ -1,0 +1,6 @@
+echo -e "Mississippi River\n" >> rivers.txt
+echo -e "Nile River\n" > rivers.txt
+echo -e "Ohio River\n" >> rivers.txt
+echo -e "Paraná River\n" >> rivers.txt
+echo -e "Yangtze River\n" >> rivers.txt
+echo -e "Yangtze River\n" >> rivers.txt
